@@ -19,4 +19,16 @@ This project builds logistic regression and random forest models on a dataset of
 
 ---
 
-*More projects coming soon.*
+## 🔥 Can Student Schedules Predict Burnout?
+
+Can a student's daily schedule — sleep, homework, screen time, activities, support — predict whether they feel burned out?
+
+This project builds and compares four ML models (logistic regression, decision tree, random forest, gradient boosting) on 2,000 students, then uses K-means clustering to discover natural "schedule profiles" and compare burnout rates across them.
+
+**Key finding:** Two students can have identical schedules and very different burnout outcomes depending on the support around them. "Busy but Supported" students burn out far less than "Overloaded Achievers" with the same workload — support is the lever schools can actually pull.
+
+**Best model:** Logistic Regression — ROC-AUC 0.94 on held-out data
+
+**Topics:** `classification` `clustering` `feature-importance` `student-wellbeing` `scikit-learn`
+
+*_More Projects coming soon.._____
