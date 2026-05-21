@@ -19,7 +19,7 @@ This project builds logistic regression and random forest models on a dataset of
 
 ---
 
-## 🔥 Can Student Schedules Predict Burnout?
+##  Can Student Schedules Predict Burnout?
 
 Can a student's daily schedule — sleep, homework, screen time, activities, support — predict whether they feel burned out?
 
