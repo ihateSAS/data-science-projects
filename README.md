@@ -1,4 +1,4 @@
-# 🎹 The Mathematics of Piano Difficulty
+# The Mathematics of Piano Difficulty
 
 **An ordinal-regression benchmark on CIPI with composer-disjoint evaluation and conformal uncertainty.**
 
