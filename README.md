@@ -18,6 +18,8 @@ Key finding: Two students can have identical schedules and very different burnou
 Best model: Logistic Regression — ROC-AUC 0.94 on held-out data
 Topics: classification, clustering, feature-importance, student-wellbeing, scikit-learn
 
+Kaggle: https://www.kaggle.com/code/danieljhuang/can-student-schedules-predict-burnout
+
 Composer Fingerprinting in Classical Piano
 A symbolic music analysis on GiantMIDI-Piano (1,123 MIDI files, 10 composers) with held-out-era evaluation and conformal uncertainty quantification.
 Can structural features of a MIDI score identify its composer? Most published results on this task use random splits that allow the model to see the same composer in both training and test. This project runs three increasingly strict evaluation protocols and quantifies how much of the apparent accuracy depends on that leakage.
